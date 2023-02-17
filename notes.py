@@ -2,6 +2,7 @@
 # sequential search
 ################################################################################
 
+
 def sequential_search_itr(xs, y):
     '''
     Check whether y is contained in the list xs
